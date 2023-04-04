@@ -1,0 +1,19 @@
+Descripción del Proyecto
+
+Se desea realizar una capacitación virtual.
+El máximo de asistentes es de 90 personas.
+Lo datos a manejar de cada asistente son:
+No Entrada (4 dígitos) (campo clave)
+Nombre
+Fecha de Nacimiento
+
+La cantidad de direcciones disponibles es de 120 en rango de 0 a 119.
+La función hash a utilizar es la de método de la multiplicación.
+Las colisiones se pueden resolver con el método de exploración cuadrática.
+Deberá tener opciones para ver la ocupación de los datos en el array, por ejemplo,
+mostrar un listado indicando el índice del array y los datos de la persona.
+Permitir la opción de búsqueda de una persona por Nombre.
+Permitir eliminar la información de una persona.
+Permitir actualizar la información de una persona.
+En cada operación deberá indicar el índice en el array sobre el que se realizará la operación.
+Por ejemplo, en la búsqueda, deberá indicar en qué posición se encuentra el dato además de la información de la persona.
